@@ -2,6 +2,8 @@
   Styles for Tab Tags
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang&display=swap');
+
 .tag {
   border-radius: 0.7em;
   padding: 6px 8px 7px;
@@ -14,6 +16,6 @@
   span {
     margin-left: 0.6em;
     font-size: 0.7em;
-    font-family: Oswald, sans-serif;
+    font-family: 'Gowun Batang', serif;
   }
 }
